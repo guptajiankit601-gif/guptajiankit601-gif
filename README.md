@@ -49,14 +49,14 @@ A project focused on tracking student expenses through a simple, user-friendly i
 
 **Focus:** HTML, CSS, JavaScript, and frontend development.
 
-🔗 [Add your repository link here]
+🔗 []
 
 ### 3. Varshsetu AI
 An AI-powered early-warning and inundation-prediction project concept focused on heavy rainfall.
 
 **Focus:** AI/ML, weather data, risk prediction, and frontend prototyping.
 
-🔗 [Add your project repository or demo link here]
+🔗 []
 
 ---
 
@@ -80,10 +80,7 @@ An AI-powered early-warning and inundation-prediction project concept focused on
 
 ## 🤝 Let's Connect
 
-💼 [LinkedIn](ADD_YOUR_LINKEDIN_URL)
+💼 [LinkedIn]([ADD_YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ankit-gupta-37b7a13a0?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 
-📧 Email: ADD_YOUR_PUBLIC_EMAIL
-
----
 
 *Learning every day. Building with purpose. Improving one commit at a time.* 🚀
