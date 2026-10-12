@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="Git-Portfolio.png" width="100%" alt="Ankit Gupta GitHub Banner">
+</div>
+
+---
+
 # Hi, I'm Ankit Kumar Gupta 👋
 
 ### B.Tech AIML Student | C++ & DSA | Aspiring Software Developer
