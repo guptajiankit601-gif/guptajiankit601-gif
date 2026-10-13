@@ -1,92 +1,137 @@
 <div align="center">
-  <img src="Git-Portfolio.png" width="100%" alt="Ankit Gupta GitHub Banner">
+
+  <!-- Developer Banner -->
+  <img src="Git-Portfolio.png" alt="Ankit Kumar Gupta - Banner" width="100%" />
+
+  <br/><br/>
+
+  # Ankit Kumar Gupta
+  **B.Tech AIML Student &nbsp;|&nbsp; Aspiring Software Developer**
+
+  <p>
+    <em>Undergraduate in Artificial Intelligence & Machine Learning focusing on C++, Data Structures & Algorithms, and robust software engineering.</em>
+  </p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/ankit-gupta-37b7a13a0/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/guptajiankit601-gif" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/GitHub-guptajiankit601--gif-161b22?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    &nbsp;
+    <a href="mailto:guptajiankit601@gmail.com">
+      <img src="https://img.shields.io/badge/Email-guptajiankit601%40gmail.com-161b22?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" />
+    </a>
+  </p>
+
 </div>
 
 ---
 
-# Hi, I'm Ankit Kumar Gupta 👋
+### About Me
 
-### B.Tech AIML Student | C++ & DSA | Aspiring Software Developer
-
-I'm a B.Tech student specializing in **Artificial Intelligence & Machine Learning**, focused on strengthening my problem-solving skills and building practical software projects.
-
-- 💻 Currently learning **C++ and Data Structures & Algorithms**
-- 🤖 Interested in **Artificial Intelligence, Machine Learning, and Generative AI**
-- 🌐 Exploring **Web Development and React**
-- 🚀 Building projects and documenting my coding journey
-- 🎯 Goal: Become a strong software developer and AI/ML engineer
+- **Education:** B.Tech student specializing in **Artificial Intelligence & Machine Learning**.
+- **Core Focus:** Building strong algorithmic thinking and problem-solving fundamentals using **C++**.
+- **100–150 Days Coding Challenge:** Actively undertaking a structured daily problem-solving routine to develop discipline and code optimization skills.
+- **Interests:** Systems programming concepts, Applied Machine Learning, and clean software architecture.
+- **Currently Learning:** Advanced data structures (trees, graphs), time-complexity optimization, and practical ML workflows with Python.
 
 ---
 
-## 🛠️ Tech Stack
+### Tech Stack
 
-**Programming Languages**
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Web Development**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | <img src="https://img.shields.io/badge/C++-161b22?style=flat-square&logo=c%2B%2B&logoColor=39d353" alt="C++" /> <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=39d353" alt="Python" /> <img src="https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=39d353" alt="Java" /> |
+| **Web Development** | <img src="https://img.shields.io/badge/HTML5-161b22?style=flat-square&logo=html5&logoColor=39d353" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-161b22?style=flat-square&logo=css3&logoColor=39d353" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=39d353" alt="JavaScript" /> |
+| **Data & AI (Foundational)** | <img src="https://img.shields.io/badge/NumPy-161b22?style=flat-square&logo=numpy&logoColor=39d353" alt="NumPy" /> <img src="https://img.shields.io/badge/Pandas-161b22?style=flat-square&logo=pandas&logoColor=39d353" alt="Pandas" /> <img src="https://img.shields.io/badge/Jupyter-161b22?style=flat-square&logo=jupyter&logoColor=39d353" alt="Jupyter" /> |
+| **Developer Tools** | <img src="https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=39d353" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=39d353" alt="GitHub" /> <img src="https://img.shields.io/badge/VS_Code-161b22?style=flat-square&logo=visual-studio-code&logoColor=39d353" alt="VS Code" /> |
 
 ---
 
-## 📂 Featured Projects
+### Featured Repositories
 
-### 1. CPP Programming Journey
-My structured C++ learning journey with concepts, practice programs, and problem-solving.
+- **[DSA-Journey-Cpp](https://github.com/guptajiankit601-gif/DSA-Journey-Cpp)**  
+  Documenting daily Data Structures and Algorithms solutions in C++, covering foundational patterns, array manipulations, and search techniques for technical interviews.  
+  `C++` &bull; `Data Structures` &bull; `Algorithms`
 
-**Focus:** C++, arrays, searching, sorting, and DSA fundamentals.
+- **[CPP-Programming_Journey](https://github.com/guptajiankit601-gif/CPP-Programming_Journey)**  
+  A structured progression through modern C++ fundamentals, memory concepts, Object-Oriented Programming (OOP), and the Standard Template Library (STL).  
+  `C++` &bull; `OOP` &bull; `STL`
 
-🔗 [View Repository](https://github.com/guptajiankit601-gif/CPP-Programming_Journey)
+- **[Binary-Search-CPP](https://github.com/guptajiankit601-gif/Binary-Search-CPP)**  
+  Focused problem-solving repository dissecting binary search mechanics, boundary constraints, and search-space reduction problems.  
+  `C++` &bull; `Binary Search` &bull; `Problem Solving`
 
-### 2. Student Expense Tracker
-A project focused on tracking student expenses through a simple, user-friendly interface.
+- **[cpp-pattern-programs](https://github.com/guptajiankit601-gif/cpp-pattern-programs)**  
+  Collection of procedural pattern printing implementations in C++ reinforcing loop control and logic structuring.  
+  `C++` &bull; `Loops` &bull; `Logic Building`
 
-**Focus:** HTML, CSS, JavaScript, and frontend development.
-
-🔗 []
-
-### 3. Varshsetu AI
-An AI-powered early-warning and inundation-prediction project concept focused on heavy rainfall.
-
-**Focus:** AI/ML, weather data, risk prediction, and frontend prototyping.
-
-🔗 []
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guptajiankit601-gif&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guptajiankit601-gif&layout=compact&theme=tokyonight&hide_border=true)
+#### Applied Projects (In Progress)
+- **Student Expense Tracker** &mdash; Responsive web application designed to help students track and categorize daily expenses. *(HTML, CSS, JavaScript &bull; Repository in staging)*
+- **Varshsetu AI** &mdash; AI/ML early-warning project concept focused on precipitation and localized inundation risk prediction. *(Python, Machine Learning &bull; Prototyping)*
 
 ---
 
-## 🎯 Current Goals
+### GitHub Statistics
 
-- [ ] Strengthen C++ and DSA fundamentals
-- [ ] Solve coding problems consistently
-- [ ] Build and deploy practical projects
-- [ ] Improve frontend development skills
-- [ ] Prepare for internships and placements
+<div align="center">
+  <p>
+    <a href="https://github.com/guptajiankit601-gif">
+      <img src="https://github-readme-stats.vercel.app/api?username=guptajiankit601-gif&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" alt="GitHub Statistics" width="48%" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/guptajiankit601-gif">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptajiankit601-gif&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" alt="Top Languages" width="48%" />
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/guptajiankit601-gif">
+      <img src="https://streak-stats.demolab.com/?user=guptajiankit601-gif&theme=dark&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353" alt="GitHub Streak" width="97%" />
+    </a>
+  </p>
+</div>
 
 ---
 
-## 🤝 Let's Connect
+### Contribution Activity
 
-💼 [LinkedIn]([ADD_YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ankit-gupta-37b7a13a0?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+<div align="center">
+  <p>
+    <a href="https://github.com/guptajiankit601-gif">
+      <img src="https://ghchart.rshah.org/39d353/guptajiankit601-gif" alt="Genuine GitHub Contribution Graph" width="100%" />
+    </a>
+  </p>
+  <p>
+    <sub>Real-time GitHub commit activity and contribution record.</sub>
+  </p>
+</div>
 
+---
 
-*Learning every day. Building with purpose. Improving one commit at a time.* 🚀
+### Current Goals
+
+- [ ] Maintain daily problem-solving consistency across the 100–150 Days Coding Challenge.
+- [ ] Deepen mastery of C++ STL, algorithmic complexity, and dynamic programming patterns.
+- [ ] Build end-to-end applications integrating software fundamentals with AI/ML techniques.
+- [ ] Prepare technical problem-solving and projects for software developer internships.
+
+---
+
+<div align="center">
+  <p>
+    <a href="https://www.linkedin.com/in/ankit-gupta-37b7a13a0/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/guptajiankit601-gif" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/GitHub-Follow-161b22?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    &nbsp;
+    <a href="mailto:guptajiankit601@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact-161b22?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" />
+    </a>
+  </p>
+</div>
