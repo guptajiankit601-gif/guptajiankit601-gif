@@ -45,7 +45,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guptajiankit601-gif&theme=tokyonight" width="100%" alt="GitHub profile contribution details" />
   <img src="https://raw.githubusercontent.com/guptajiankit601-gif/guptajiankit601-gif/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution graph" />
 </div>
-<p align="center"><strong>Designed &amp; Developed with ❤️ by Ankit Gupta</strong></p>
+<p align="center"><strong>Designed &amp; Developed by Ankit Gupta❤️</strong></p>
 <p align="center">
   <i>Thanks for visiting — let's build something intelligent together.</i>
 </p>
