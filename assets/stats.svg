@@ -37,6 +37,11 @@
       <text x="285" y="240"
         fill="#22D3EE"
         font-family="Arial" font-size="17" font-weight="bold">
+        JavaScript · 1
+      </text>
+      <text x="505" y="240"
+        fill="#A78BFA"
+        font-family="Arial" font-size="17" font-weight="bold">
         TypeScript · 1
       </text>
 </svg>
