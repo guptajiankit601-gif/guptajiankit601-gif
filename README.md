@@ -8,7 +8,6 @@
     <a href="https://www.linkedin.com/in/ankit-gupta-37b7a13a0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <img src="https://komarev.com/ghpvc/?username=guptajiankit601-gif&style=for-the-badge&color=7C3AED&label=VIEWS" alt="Profile views" />
     <img src="https://img.shields.io/github/stars/guptajiankit601-gif?affiliations=OWNER&style=for-the-badge&color=06B6D4&labelColor=0d1117" alt="GitHub stars" />
-    <a href="https://github.com/zyh3699/awesome-github-readme-profile"><img src="https://img.shields.io/badge/Use%20This%20Template-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="Template source" /></a>
   </p>
 </div>
 
