@@ -2,7 +2,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=Ankit%20Gupta&fontSize=62&fontAlignY=40&animation=fadeIn&fontColor=white&desc=CSE%20AI%20ML%20Student&descAlignY=62&descSize=17" width="100%" alt="Ankit Gupta profile banner" />
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI+%26+ML)+Student;C%2B%2B+%7C+Data+Structures+%26+Algorithms;Building+problem-solving+skills;Learning+DSA+one+problem+at+a+time" alt="Typing SVG" /></a>
-  <p align="center">
+<p align="center">
     <a href="https://github.com/guptajiankit601-gif"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="mailto:guptajiankit601@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://www.linkedin.com/in/ankit-gupta-37b7a13a0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -45,7 +45,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guptajiankit601-gif&theme=tokyonight" width="100%" alt="GitHub profile contribution details" />
   <img src="https://raw.githubusercontent.com/guptajiankit601-gif/guptajiankit601-gif/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution graph" />
 </div>
-
+<p align="center"><strong>Designed &amp; Developed with ❤️ by Ankit Gupta</strong></p>
 <p align="center">
   <i>Thanks for visiting — let's build something intelligent together.</i>
 </p>
